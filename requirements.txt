@@ -1,0 +1,9 @@
+flask
+flask-cors
+openai
+chromadb
+sentence-transformers
+ebooklib
+beautifulsoup4
+lxml
+gunicorn
